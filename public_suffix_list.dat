@@ -12978,6 +12978,7 @@ outsystemscloud.com
 // Submitted by Vincent Cassé <vincent.casse@ovhcloud.com>
 *.webpaas.ovh.net
 *.hosting.ovh.net
+*.mis.ovh.net
 
 // OwnProvider GmbH: http://www.ownprovider.com
 // Submitted by Jan Moennich <jan.moennich@ownprovider.com>
